@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Myinsta.iml" filepath="$PROJECT_DIR$/Myinsta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParserStarterProject/MyinstaProject.iml" filepath="$PROJECT_DIR$/ParserStarterProject/MyinstaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyinstaProject/ParseStarterProject.iml" filepath="$PROJECT_DIR$/MyinstaProject/ParseStarterProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParserStarterProject/ParserStarterProject.iml" filepath="$PROJECT_DIR$/ParserStarterProject/ParserStarterProject.iml" />
+    </modules>
+  </component>
+</project>
